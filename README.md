@@ -32,7 +32,6 @@ will be updated
 will be write
 ```
 ### Acknowledgement
-- [thuml_LTS](https://github.com/thuml/Large-Time-Series-Model)
 - [thuml_TS](https://github.com/thuml/Time-Series-Library)
 
 
