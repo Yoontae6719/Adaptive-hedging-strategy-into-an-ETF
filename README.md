@@ -1,6 +1,6 @@
 # Deep Adaptive-hedging-strategy-into-an-ETFs (The title has not yet been decided.)
 
-This is the origin Pytorch implementation of Decision-foucsed hedging strategy for pairs trading in the following paper: Deep Adaptive-hedging-strategy-into-an-ETFs.
+This is the origin Pytorch implementation of Decision-foucsed adaptive hedging strategy for pairs trading in the following paper: Deep Adaptive-hedging-strategy-into-an-ETFs.
  
 🚩**News**(Jan 15, 2025)  We will release our model.
 
