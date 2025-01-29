@@ -35,4 +35,4 @@ will be write
 - [thuml_TS](https://github.com/thuml/Time-Series-Library)
 
 
-Built by [Yoontae Hwang](https://yoontae6719.github.io/) - Copyright (c) 2025 Yoontae Hwang
+Built by [Yoontae Hwang](https://yoontae6719.github.io/) - Copyright (c) 2025 Anonymous
